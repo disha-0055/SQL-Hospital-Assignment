@@ -39,13 +39,13 @@ Healthcare organizations need to analyze patient statistics, hospital performanc
 
    ## 📸 Screenshots
 
-### Book Table
+### Average days spent by patients in each department
 ![Average days spent by patients in each department](screenshots/avg_stay_by_department.png)
 
-### Customers with At Least 2 Orders
+### Monthly medical expenses
 ![Monthly medical expenses](screenshots/monthly_expenses.png)
 
-### Remaining Stock Analysis
+### Patients treated in each city
 ![Patients treated in each city](screenshots/patients_by_city.png)
 
 ### Key SQL Concepts Used
