@@ -37,6 +37,17 @@ Healthcare organizations need to analyze patient statistics, hospital performanc
 * Generate monthly expense reports.
 * Answer real-world business questions using SQL.
 
+   ## 📸 Screenshots
+
+### Book Table
+![Book Table](screenshots/avg_stay_by_department.png)
+
+### Customers with At Least 2 Orders
+![Customers Orders](screenshots/monthly_expenses.png)
+
+### Remaining Stock Analysis
+![Remaining Stock](screenshots/patients_by_city.png)
+
 ### Key SQL Concepts Used
 
 * SELECT & WHERE
